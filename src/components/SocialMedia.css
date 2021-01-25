@@ -1,0 +1,22 @@
+.fa  {
+    padding:20px;
+    font-size: 10px;
+    width:15px;
+    text-decoration: none;
+    color:white;
+    text-align: right;
+    background-color: none;
+    
+    
+  }
+  .icons {
+    display:flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background-color: #074368;
+
+  }
+  .fa-facebook{
+    color:white;
+  }
