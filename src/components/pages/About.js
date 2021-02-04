@@ -48,7 +48,7 @@ import {Link} from 'react-router-dom';
 <div className='about2' id='landingpage'>
   <h1 className='about3'>About us</h1>
   <div className='boxwrap'>
- <p> <img src={process.env.PUBLIC_URL + '/img/about-image.jpg'} className='images2'/>
+ <p> <img src={process.env.PUBLIC_URL + '/img/about-image.jpg'} alt="second-image" className='images2'/>
 ScrapeCoders is a result-driven, tech startup company founded in early 2020 by a group of six core developers. Each from different teach backgrounds that have a passions fro technology and who believed that technology is the driving force of change in communities and modern society.
 </p>
 
