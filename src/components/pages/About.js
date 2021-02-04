@@ -28,16 +28,16 @@ import {Link} from 'react-router-dom';
             <div className='imagewrap'>
             <div className='row'>
               <div className='column'>
-            <img src={process.env.PUBLIC_URL + '/img/design.jpeg'} className='images'/><p>Design</p>
+            <img src={process.env.PUBLIC_URL + '/img/design.jpeg'} alt="design" className='images'/><p>Design</p>
             </div>
             <div className='column'>
-            <img src={process.env.PUBLIC_URL + '/img/create.jpeg'} className='images'/><p>Create</p>
+            <img src={process.env.PUBLIC_URL + '/img/create.jpeg'} alt="create" className='images'/><p>Create</p>
             </div>
             <div className='column'>
-            <img src={process.env.PUBLIC_URL + '/img/test.jpg'} className='images'/><p>Test</p>
+            <img src={process.env.PUBLIC_URL + '/img/test.jpg'} alt="test" className='images'/><p>Test</p>
             </div>
             <div className='column'>
-            <img src={process.env.PUBLIC_URL + '/img/launch.jpg'} className='images'/><p>Launch</p>
+            <img src={process.env.PUBLIC_URL + '/img/launch.jpg'} alt="launch" className='images'/><p>Launch</p>
             </div>
             </div>
 
