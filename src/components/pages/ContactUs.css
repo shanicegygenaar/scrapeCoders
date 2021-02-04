@@ -1,7 +1,7 @@
 .images11  {
     width: 70px;
     height: 70px;
-    margin-left:150px;
+    margin-left:90px;
 }
 
 .column2  {
@@ -9,8 +9,8 @@
     padding:15px;
 }
 .column2 p{
-    padding:5px;
-    margin-left: 130px;
+    padding:3px;
+    margin-left: 100px;
     font-family:Roboto;
 }
 .contact {
@@ -21,7 +21,7 @@
     width:700px;
     height:350px;
     padding:50px;
-    margin-left:250px;
+    margin-left:150px;
     
 }
 .contact p {
