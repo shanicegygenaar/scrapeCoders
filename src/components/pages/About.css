@@ -5,7 +5,7 @@ background-color: #fff;
  .images  {
     width: 70px;
     height: 70px;
-    margin-left: 90px;
+    margin-left: 50px;
     
 }
 .column  {
@@ -61,7 +61,7 @@ h1 {
     }
     .column p{
         padding:5px;
-        margin-left: 100px;
+        margin-left: 80px;
     }
     h1 {
         color:#1b505e;
